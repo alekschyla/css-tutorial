@@ -1,8 +1,14 @@
-/* Targeting ID's and classes */
-span {
+body {
+    color: red;
+}
+div {
     color: blue;
 }
+p {
+    color: green;
+}
 
-span {
-    color: red;
+a {
+    color: yellow;
+    text-decoration: underline;
 }
