@@ -1,14 +1,7 @@
-span[class~="deck"]{
-    color: purple;
-}
-
-div[id] {
-    background-color: grey;
-}
-
-a[title="Google"] {
+a:hover {
     color: red;
 }
-a[href^="http"] {
-    color: green;
+
+#main-content:hover {
+    background-color: red;
 }
