@@ -1,3 +1,14 @@
-#all-articles h2 + p {
+span[class~="deck"]{
+    color: purple;
+}
+
+div[id] {
+    background-color: grey;
+}
+
+a[title="Google"] {
+    color: red;
+}
+a[href^="http"] {
     color: green;
 }
