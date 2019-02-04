@@ -1,9 +1,5 @@
 #banner {
-    background-color: #606060;
     width: 100%;
     height: 300px;
-    background-image: url(https://1.bp.blogspot.com/-y5K7vypVtH4/Vj3PqqKz8wI/AAAAAAAAAsU/yvZEyWVSMM0/s1600/W.png), url(https://wallpapertag.com/wallpaper/full/b/6/4/283371-wallpaper-tumblr-1920x1080-images.jpg);
-    background-repeat: no-repeat;
-    background-position: center, top left;
-    background-size: 300px, 1300px;
+    background-color: rgb(19, 199, 100);
 }
