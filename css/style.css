@@ -1,9 +1,7 @@
 .static-width {
     width: 300px;
     height: 300px;
-    background-color: #606060;
-    background-image: url("http://images.math.cnrs.fr/IMG/png/section8-image.png");
-    background-repeat: no-repeat;
-    background-position: center;
+    background: url(http://images.math.cnrs.fr/IMG/png/section8-image.png) no-repeat top center;
+    background-color: #67a38b;
     background-size: 200px;
 }
